@@ -1,7 +1,6 @@
 ---
 name: "\U0001F381 Feature Request"
 about: Do you have an idea for a new feature?
-title: "[REQ] Your Title Here"
 labels: feature request
 
 ---

@@ -1,7 +1,6 @@
 ---
 name: "\u23F1\uFE0F Enhancement Request"
 about: Do you have an idea for an enhancement?
-title: "[ENH] Your Title Here"
 labels: enhancement
 
 ---

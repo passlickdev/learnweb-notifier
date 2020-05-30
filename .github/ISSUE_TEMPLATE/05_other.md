@@ -1,7 +1,6 @@
 ---
 name: "\U0001F4AC Anything else?"
 about: For conceptual questions, please consider to open an issue in the documentation repository.
-title: "[OTH] Your Title Here"
 
 ---
 <!--
