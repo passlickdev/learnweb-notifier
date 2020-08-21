@@ -1,13 +1,7 @@
 {
   "profiles": {
     "LearnwebNotifier.Test": {
-      "commandName": "Project",
-      "environmentVariables": {
-        "PUSHOVER_TOKEN": "aan6h4kab2sucuck2g264rpxpkq76x",
-        "PUSHOVER_USR": "ubgwi2c91nzsw8s87bj2gvopt237dr",
-        "LEARNWEB_PWD": "test",
-        "LEARNWEB_USR": "n_pass02"
-      }
+      "commandName": "Project"
     }
   }
 }
