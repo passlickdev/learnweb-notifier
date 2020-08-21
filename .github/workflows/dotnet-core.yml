@@ -18,8 +18,8 @@ jobs:
       with:
         dotnet-version: 3.1.301
     - name: Install dependencies
-      run: dotnet restore "/src/PasslickDevelopment.LearnwebNotifier/PasslickDevelopment.LearnwebNotifier.sln"
+      run: dotnet restore /src/PasslickDevelopment.LearnwebNotifier/PasslickDevelopment.LearnwebNotifier.sln
     - name: Build
-      run: dotnet build "/src/PasslickDevelopment.LearnwebNotifier/PasslickDevelopment.LearnwebNotifier.sln" --configuration Release --no-restore
+      run: dotnet build /src/PasslickDevelopment.LearnwebNotifier/PasslickDevelopment.LearnwebNotifier.sln --configuration Release --no-restore
     - name: Test
-      run: dotnet test "/src/PasslickDevelopment.LearnwebNotifier/PasslickDevelopment.LearnwebNotifier.sln" --no-restore --verbosity normal
+      run: dotnet test /src/PasslickDevelopment.LearnwebNotifier/PasslickDevelopment.LearnwebNotifier.sln --no-restore --verbosity normal
