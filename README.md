@@ -1,7 +1,7 @@
 <br/><br/>
 
 <p align="center">
- <img src=".github/RESOURCES/logo.png">
+ <a href="#"><img src=".github/RESOURCES/logo.png"></a>
 </p>
 <p align="center"><b>WWU Learnweb Notifier Service</b></p>
 
