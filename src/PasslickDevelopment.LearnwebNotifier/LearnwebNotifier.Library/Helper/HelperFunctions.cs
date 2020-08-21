@@ -40,7 +40,7 @@ namespace LearnwebNotifier.Library.Helper
 				}
 				else if (!char.IsControl(keyInfo.KeyChar))
 				{
-					Console.Write("∗");
+					Console.Write("*");
 					password += keyInfo.KeyChar;
 				}
 			} while (key != ConsoleKey.Enter);
