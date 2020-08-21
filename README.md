@@ -1,7 +1,7 @@
 <br/><br/>
 
 <p align="center">
- <a href=#><img src=".github/RESOURCES/logo.png"></a>
+ <img src=".github/RESOURCES/logo.png">
 </p>
 <p align="center"><b>WWU Learnweb Notifier Service</b></p>
 
@@ -14,7 +14,6 @@
     <a href="#setup--installation">Setup & Installation</a>&nbsp;&nbsp;–&nbsp;
     <a href="#configuration">Configuration</a>&nbsp;&nbsp;–&nbsp;
     <a href="#licensing">Licensing</a>&nbsp;&nbsp;–&nbsp;
-    <a href="https://passlickdev.com">Passlick Development</a>&nbsp;&nbsp;–&nbsp;
     <a href="https://passlickdev.com/redirect?id=4002">Donate</a>
 </p>
 <hr />
